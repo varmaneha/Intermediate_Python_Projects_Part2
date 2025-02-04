@@ -5,3 +5,4 @@
 4) ISS Overhead Notifier Project
 5) The Trivia API and the Quizzler App Project
 6) Rain Alert Application Project
+7) Stock News Monitoring Project
