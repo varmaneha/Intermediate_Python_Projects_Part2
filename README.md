@@ -6,3 +6,4 @@
 5) The Trivia API and the Quizzler App Project
 6) Rain Alert Application Project
 7) Stock News Monitoring Project
+8) Habit Tracker Project
